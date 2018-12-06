@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Write by Ryrmak");
+            Console.WriteLine("changes by step 7");
         }
     }
 }

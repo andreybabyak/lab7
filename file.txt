@@ -1,2 +1,4 @@
 Some text step 2
 step 3 andrey
+conflict ryrmak
+by step 3

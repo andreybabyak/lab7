@@ -3,3 +3,5 @@ step 3 andrey
 conflict ryrmak
 by step 3
 some changes in step 5 new zz
+some changes by step 5
+some changes by step 7

@@ -2,3 +2,4 @@ Some text step 2
 step 3 andrey
 conflict ryrmak
 by step 3
+some changes in step 5 new
